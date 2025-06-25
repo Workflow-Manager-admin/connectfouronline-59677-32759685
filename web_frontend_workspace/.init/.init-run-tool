@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- --port <port> --host <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/connectfouronline-59677-32759685/web_frontend_workspace/web_frontend"
+}
